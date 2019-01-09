@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1546035471 source:c:\users\user\desktop\aal\moje\aal_tomas_suchodolskij\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<numeric>
+	<iterator>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+
+1546035471 source:c:\users\user\desktop\aal\repo\aal\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<numeric>
+	<iterator>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+
